@@ -1,0 +1,10 @@
+body {
+    margin: 0;
+}
+
+
+
+.flexHorizontal {
+    display: flex;
+    background: rgb(200, 200, 220);
+}
